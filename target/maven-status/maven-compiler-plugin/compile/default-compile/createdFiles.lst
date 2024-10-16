@@ -1,0 +1,4 @@
+com\mycompany\sistemaproduto\testarconexaomysql.class
+com\mycompany\sistemaproduto\SistemaProduto.class
+com\mycompany\sistemaproduto\ProdutoDAO.class
+com\mycompany\sistemaproduto\Produto.class
